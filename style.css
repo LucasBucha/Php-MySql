@@ -1,8 +1,12 @@
-body{
-    background-color: darksalmon;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-h1{
-    color :black;
+body{
+    background-color: rgb(172, 237, 240);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
 }
+
